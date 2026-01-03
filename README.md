@@ -1,6 +1,7 @@
 # Gym Project 🏋️
 
 My first year project - A comprehensive gym management application.
+[View Live Demo] https://ronitteli.github.io/gym/
 
 ## 📋 About
 
